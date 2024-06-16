@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 30px;
+    background-color: pink;
+}
+#inner{
+    font-size: 15px;
+    background-color: rgb(220, 140, 220);
+}
+body{
+    background-color: rgb(149, 192, 230);
+}

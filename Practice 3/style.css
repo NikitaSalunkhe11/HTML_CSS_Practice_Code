@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0; 
+    color: white;
+    text-size-adjust: 25px;
+    text-decoration: none; 
+      
+}
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 3px solid rgb(15, 16, 15);
+    border-radius: 50%;
+    background-color: green;
+} */
+
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+}
+#amazon{
+    color: #f08804;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+}
